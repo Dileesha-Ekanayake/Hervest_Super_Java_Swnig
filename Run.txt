@@ -1,0 +1,2 @@
+javac -cp Lib/*; *.java
+java -cp Lib/*; HarvestApp
